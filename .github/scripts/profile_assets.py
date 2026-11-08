@@ -48,6 +48,8 @@ def text(x: int, y: int, value: str, size: int = 14, color: str = "#c9d1d9", wei
 
 
 def write_stats(repos: list[dict], languages: dict[str, int], total_contributions: int) -> None:
+    # Keep all totals limited to repositories GitHub marks public.
+    repos = [repo for repo in repos if repo.get("private") is False]
     owned = [r for r in repos if not r.get("fork") and not r.get("archived")]
     public_count = len(repos)
     stars = sum(r.get("stargazers_count", 0) for r in owned)
@@ -145,6 +147,8 @@ def main() -> None:
             break
         page += 1
 
+    # Keep all totals limited to repositories GitHub marks public.
+    repos = [repo for repo in repos if repo.get("private") is False]
     owned = [r for r in repos if not r.get("fork") and not r.get("archived")]
     language_totals: dict[str, int] = {}
     # Avoid one request for forks and archived repositories; query each owned public repo's exact language byte counts.
@@ -169,4 +173,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
