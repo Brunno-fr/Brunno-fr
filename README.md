@@ -1,67 +1,106 @@
-<!-- Cyberpunk profile README | Customize the contact link and project links as your public portfolio grows. -->
-
 <div align="center">
 
-<img src="./assets/developer-pixel.gif" width="420" style="max-width:100%;height:auto;" alt="Brunno coding on an Alienware laptop — animated pixel art">
-
-<br>
-
 <a href="https://github.com/Brunno-fr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF6A00&center=true&vCenter=true&width=620&height=110&lines=Hello%2C+World!+I'm+Brunno;Ol%C3%A1%2C+mundo!+Eu+sou+Brunno;Developer+%7C+Technology+Enthusiast;Building+ideas+into+code" alt="Hello, World! I'm Brunno — Olá, mundo! Eu sou Brunno — Developer | Technology Enthusiast — Building ideas into code">
+  <img src="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/profile-header.svg" width="100%" alt="Hello, World! I'm Brunno — Developer and Computer Engineering">
 </a>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Brunno--fr-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brunno-fr)
-[![Projects](https://img.shields.io/badge/Projects-Explore-ff6a00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brunno-fr?tab=repositories)
-
 </div>
-
----
 
 ## `> whoami`
 
-**EN** · Developer and technology enthusiast. I enjoy building ideas into code.
+**EN** · Hello, World! I'm Brunno — a developer and technology enthusiast building ideas into code, with a focus on Computer Engineering.
 
-**PT-BR** · Desenvolvedor e entusiasta de tecnologia. Gosto de transformar ideias em código.
+**PT-BR** · Olá, mundo! Eu sou Brunno — desenvolvedor e entusiasta de tecnologia, transformando ideias em código, com foco em Engenharia da Computação.
+
+## `> computer_engineering --scenes`
 
 <div align="center">
-
-### `// Tools behind this profile`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Brunno-fr)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
+  <img src="./assets/computer-engineering.gif" width="760" style="max-width:100%;height:auto;" alt="Animated 3 by 2 cyberpunk pixel-art scenes: coding, networking, Linux terminal, PostgreSQL, computer engineering, and infrastructure">
 </div>
+
+<p align="center">
+  <a href="https://github.com/Brunno-fr">View my GitHub profile</a> ·
+  <a href="https://github.com/Brunno-fr?tab=repositories">Explore my repositories</a>
+</p>
+
+## `> tech_stack --list`
+
+**Frontend**
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+**Backend & Programming**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
+
+**Databases**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![PL%2FpgSQL](https://img.shields.io/badge/PL%2FpgSQL-FF6A00?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/plpgsql.html)
+[![SQL](https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=databricks&logoColor=white)](https://www.postgresql.org/docs/current/sql.html)
+
+## `> soft_skills --show`
+
+**EN**
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ff6a00?style=flat-square) ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-9d4edd?style=flat-square) ![Teamwork](https://img.shields.io/badge/Teamwork-ff8a24?style=flat-square) ![Adaptability](https://img.shields.io/badge/Adaptability-7040a0?style=flat-square) ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-ff6a00?style=flat-square) ![Creativity](https://img.shields.io/badge/Creativity-9d4edd?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-ff8a24?style=flat-square)
+
+**PT-BR**
+
+![Resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20problemas-ff6a00?style=flat-square) ![Pensamento analítico](https://img.shields.io/badge/Pensamento%20anal%C3%ADtico-9d4edd?style=flat-square) ![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-ff8a24?style=flat-square) ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-7040a0?style=flat-square) ![Aprendizado contínuo](https://img.shields.io/badge/Aprendizado%20cont%C3%ADnuo-ff6a00?style=flat-square) ![Criatividade](https://img.shields.io/badge/Criatividade-9d4edd?style=flat-square) ![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-ff8a24?style=flat-square)
 
 ## `> github --stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brunno-fr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=9d4edd&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics for Brunno-fr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-fr&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=c9d1d9" alt="Most used programming languages on Brunno-fr's public repositories">
+  <a href="https://github.com/Brunno-fr?tab=overview">
+    <img src="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-stats.svg" width="49%" alt="GitHub public activity, updated daily from GitHub data">
+  </a>
+  <a href="https://github.com/Brunno-fr?tab=repositories">
+    <img src="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/top-languages.svg" width="49%" alt="Programming language distribution from public repositories">
+  </a>
+  <a href="https://github.com/Brunno-fr?tab=overview">
+    <img src="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/contribution-graph.svg" width="98%" alt="GitHub contributions over the last twelve months">
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brunno-fr&bg_color=0d1117&color=c9d1d9&line=ff6a00&point=9d4edd&area=true&hide_border=true" alt="Contribution graph for Brunno-fr" width="95%">
-</div>
+<p align="center">
+  <a href="https://github.com/Brunno-fr?tab=overview">Open GitHub activity</a> ·
+  <a href="https://github.com/Brunno-fr?tab=repositories">Browse public repositories</a>
+</p>
 
 ## `> git log --visualize`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-snake.svg">
-    <img alt="Animated snake following Brunno-fr's GitHub contribution graph" src="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-snake.svg" width="95%">
-  </picture>
+  <a href="https://github.com/Brunno-fr?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-snake.svg">
+      <img src="https://raw.githubusercontent.com/Brunno-fr/Brunno-fr/output/github-snake.svg" width="98%" alt="Animated contribution snake generated by GitHub Actions">
+    </picture>
+  </a>
 </div>
 
-## `> contact`
+<p align="center">
+  <a href="https://github.com/Brunno-fr?tab=overview">If an image does not load, view my GitHub contribution activity</a>
+</p>
 
-**EN** · [Visit my GitHub profile](https://github.com/Brunno-fr) · [Explore my repositories](https://github.com/Brunno-fr?tab=repositories)  
-**PT-BR** · [Visite meu perfil no GitHub](https://github.com/Brunno-fr) · [Explore meus repositórios](https://github.com/Brunno-fr?tab=repositories)
+## `> contact --open`
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brunno-fr)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-ff6a00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brunno-fr?tab=repositories)
+
+</div>
+
+**EN** · GitHub is my public contact point.  
+**PT-BR** · O GitHub é meu canal público de contato.
 
 <!--
-To add another contact button, duplicate a badge link above and replace its label and URL.
-Stats and graph cards are served by third-party services; the snake SVGs are generated by the workflow below.
+Profile cards and the terminal header are generated daily by .github/workflows/snake.yml.
+Stats come from GitHub's public API; no estimated or fabricated counts are displayed.
 -->
+

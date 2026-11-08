@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Refresh profile visuals
 
 on:
   schedule:
@@ -8,24 +8,41 @@ on:
     branches:
       - main
     paths:
+      - "README.md"
+      - "assets/computer-engineering.gif"
+      - ".github/scripts/profile_assets.py"
       - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: contribution-snake
+  group: profile-visuals
   cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.x"
+
+      - name: Generate profile header, stats, languages, and contribution graph
+        run: python .github/scripts/profile_assets.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Brunno-fr
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg?color_snake=%23ff6a00&color_dots=%230d1117,%23311a3b,%237a3e8a,%23c75d16,%23ff6a00
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%23ff6a00
@@ -38,3 +55,4 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
