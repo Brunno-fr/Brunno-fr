@@ -24,6 +24,7 @@
 
 ## `> projects --featured`
 
+- **[DYSONOS — Self-Expanding Network](https://github.com/Brunno-fr/CS50X/tree/main/project)** · **CS50x final project**: Flask and SQLite simulation that expands network capacity when demand grows. Built with Python, JavaScript, Canvas, and Three.js. [Project README](https://github.com/Brunno-fr/CS50X/blob/main/project/README.md) · [Demo video](https://youtu.be/dox1g25N0tA).
 - **[DYSONOS — Self-Expanding Network](https://github.com/Brunno-fr/CS50X/tree/main/project)** · **CS50x final project**: a Flask and SQLite simulation that expands network capacity as demand grows. [Project README](https://github.com/Brunno-fr/CS50X/blob/main/project/README.md) · [Demo video](https://youtu.be/dox1g25N0tA).
 - **[Tá Barato Demais](https://github.com/Brunno-fr/ta-barato-demais)** · Public web application for product offers and price comparison.
 - **Task Management App / Aplicativo de Controle de Tarefas** · Academic Android project using Java, SQLite, and CRUD operations.
