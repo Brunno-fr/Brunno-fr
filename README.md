@@ -18,7 +18,7 @@
 
 ## `> education --coursework`
 
-- **Computer Engineering / Engenharia da Computação** · 2024–2028 (expected / previsão) · 6th semester in progress / 6º período em andamento.
+- **Computer Engineering / Engenharia da Computação** · UniAmérica Descomplica · 2024–2028 (expected / previsão) · 6th semester in progress / 6º período em andamento.
 - **CS50x: Introduction to Computer Science** · Harvard University / edX · 2026. The course syllabus covers algorithms, data structures, C, Python, SQL, memory, and web fundamentals. [Official CS50x syllabus](https://cs50.harvard.edu/x/syllabus/).
 - **Relevant coursework / Disciplinas relevantes** · Data Structures for Intelligent Systems; Database Application Development; Programming I; Software Engineering and Design; Cloud Computing Fundamentals; Computer Networks.
 
@@ -41,6 +41,14 @@ Studying the foundations covered in CS50x:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+**Computer Engineering foundations · UniAmérica Descomplica**
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+Also studying foundations in data structures, database development, software engineering, cloud computing, and computer networks.
 
 ## `> soft_skills --show`
 
