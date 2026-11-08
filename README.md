@@ -40,7 +40,7 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![PL%2FpgSQL](https://img.shields.io/badge/PL%2FpgSQL-FF6A00?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/plpgsql.html)
-[![SQL](https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=databricks&logoColor=white)](https://www.postgresql.org/docs/current/sql.html)
+[![SQL](https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logoColor=white)](https://www.postgresql.org/docs/current/sql.html)
 
 ## `> soft_skills --show`
 
@@ -103,4 +103,5 @@
 Profile cards and the terminal header are generated daily by .github/workflows/snake.yml.
 Stats come from GitHub's public API; no estimated or fabricated counts are displayed.
 -->
+
 
